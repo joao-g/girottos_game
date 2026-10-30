@@ -9,5 +9,5 @@ First semester college project made in C, it is a simple terminal based game wit
 ---
 
 ### 👨‍💻️ Dev's
-JG-endOS & P-Alan
+joao-g & P-Alan
 
